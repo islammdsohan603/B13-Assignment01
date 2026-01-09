@@ -5,7 +5,15 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
-
+/* Header */
+header {
+  height: 100vh;
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("./progrmminghero13-A01/assets/hero-bg.png");
+  background-size: cover;
+  background-position: center;
+}
 
 
 /*   NAVBAR   */
